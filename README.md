@@ -1,7 +1,7 @@
 # 🏆 The 2nd Shinhan Big Data Hackathon (Shin.Big.Hae)  
 ### 📅 October 4, 2023 - October 8, 2023  
 
-![Shinhan Hackathon Poster](assets/hackathon_poster.jpg)
+![Shinhan Hackathon Poster](https://github.com/liz-song/shinhan_bigdata_hackathon/blob/main/%EC%A0%9C2%ED%9A%8C_%EC%8B%A0.%EB%B9%85_.%ED%95%B4_%ED%8F%AC%EC%8A%A4%ED%84%B0.png?raw=true)
 
 
 ## **[Large-Text UI Proposal for the Senior Segment: Leading Digital Finance with Shinhan Life]**  
@@ -50,12 +50,8 @@
 ---
 
 ## 🎤 Presentation Materials  
-📎 **Final Presentation Deck (PPT):** [📎 Link to be added](#)  
-
----
-
-## 🏆 Award Recognition  
-📸 **Award-winning photo to be added**  
+📎 **Final Presentation Deck (PPT):** [📎 Click here to view](https://github.com/liz-song/shinhan_bigdata_hackathon/blob/main/%5B%EC%8B%A0%ED%95%9C%EB%9D%BC%EC%9D%B4%ED%94%84%5D%20%EB%8D%B0%EB%B6%84%EB%9D%BC%EC%9D%B4%ED%94%84.pdf?raw=true)
+ 
 
 ---
 
