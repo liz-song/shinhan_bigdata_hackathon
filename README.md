@@ -50,7 +50,7 @@
 ---
 
 ## 🎤 Presentation Materials  
-📎 **Final Presentation Deck (PPT):** [📎 Click here to view]([ShinhanLife] Final Result - DebunLife.pdf)
+📎 **Final Presentation Deck (PPT):** [📎 Click here to view](https://github.com/liz-song/shinhan_bigdata_hackathon/blob/main/%5BShinhanLife%5D%20Final%20Result%20-%20DebunLife.pdf)
  
 
 ---
