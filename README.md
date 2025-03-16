@@ -9,7 +9,7 @@
 
 ---
 
-# 🎯 Project Overview  
+# Project Overview  
 - **Competition:** The 2nd Shinhan Big Data Hackathon (2023)  
 - **Hosted by:** Shinhan Financial Group, Big Data Innovation Convergence University Project Team  
 - **Objective:** **Developing a customized UI/UX and service model for the senior segment**  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔍 Problem Definition  
+## Problem Definition  
 - The insurance industry must **internalize digital transformation** to effectively respond to future uncertainties  
 - **User complaints and inefficiencies** in existing insurance applications were identified through **App Store ratings and reviews**  
 - The **senior segment (50+ years old) is becoming a key revenue source** for insurance companies  
@@ -27,7 +27,7 @@
 
 ---
 
-## 💡 Proposed Solution: 'Large-Text UI' for the Senior Segment  
+## Proposed Solution: 'Large-Text UI' for the Senior Segment  
 ✅ **Simplified Insurance Claim Process** – Introducing a streamlined claim submission process tailored to seniors, who frequently apply for insurance claims  
 ✅ **Easy Loan Amount Check per Insurance Plan** – Providing a **one-click overview of available loan amounts for each policy**, catering to seniors who often take out loans and hold multiple policies  
 ✅ **'Senior Mode' in the Insurance Application** – Enabling **one-click activation of a senior-friendly mode**, featuring an intuitive large-text UI for frequently used services  
@@ -35,31 +35,32 @@
 
 ---
 
-## 📊 Expected Impact  
-📈 **Improved accessibility to financial services for elderly customers**  
-📈 **Acquisition of new customers and enhanced customer loyalty through an optimized experience**  
-📈 **Cost reduction and operational efficiency through the digitization and automation of insurance services**  
-📈 **Strengthened brand leadership and market dominance as a 'leader in digital financial services'**  
+## Expected Impact  
+- **Improved accessibility to financial services for elderly customers**  
+- **Acquisition of new customers and enhanced customer loyalty through an optimized experience**  
+- **Cost reduction and operational efficiency through the digitization and automation of insurance services**  
+- **Strengthened brand leadership and market dominance as a 'leader in digital financial services'**  
 
 ---
 
-## 🛠 Technologies & Analytical Methods Used  
+## Technologies & Analytical Methods Used  
 - **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Visualization & Presentation:** PowerPoint  
 
 ---
 
-## 🎤 Presentation Materials  
-📎 **Final Presentation Deck (PPT):** [📎 Click here to view](https://github.com/liz-song/shinhan_bigdata_hackathon/blob/main/%5BShinhanLife%5D%20Final%20Result%20-%20DebunLife.pdf)
+## Presentation Materials  
+**Final Presentation Deck (PPT):** [📎 Click here to view](https://github.com/liz-song/shinhan_bigdata_hackathon/blob/main/%5BShinhanLife%5D%20Final%20Result%20-%20DebunLife.pdf)
  
 
 ---
 
-## 👥 Team Contributions (Total 4 Members)  
-- **Shinhan Life Data Analysis & EDA:** Conducted correlation analysis and exploratory data analysis (EDA) to **identify meaningful patterns within the senior segment**  
-- **Final Presentation & Q&A Lead:** Represented the team in the final round, delivering the **presentation and handling the Q&A session**  
+## Team Contributions (Total 4 Members)  
+As a key contributor to the project, I was responsible for:  
+- Conducting correlation analysis and exploratory data analysis (EDA) to **identify meaningful patterns within the senior segment**  
+- Representing the team in the final round, delivering the **presentation and handling the Q&A session**  
 
 ---
 
-## 📜 License  
+## License  
 This project is for educational and research purposes only and is not an official dataset or product of Shinhan Financial Group.  
