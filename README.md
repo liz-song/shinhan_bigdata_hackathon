@@ -9,7 +9,7 @@
 
 ---
 
-# Project Overview  
+## Project Overview  
 - **Competition:** The 2nd Shinhan Big Data Hackathon (2023)  
 - **Hosted by:** Shinhan Financial Group, Big Data Innovation Convergence University Project Team  
 - **Objective:** **Developing a customized UI/UX and service model for the senior segment**  
