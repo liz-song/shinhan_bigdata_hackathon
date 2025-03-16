@@ -1,6 +1,9 @@
 # 🏆 The 2nd Shinhan Big Data Hackathon (Shin.Big.Hae)  
 ### 📅 October 4, 2023 - October 8, 2023  
 
+![Shinhan Hackathon Poster](assets/hackathon_poster.jpg)
+
+
 ## **[Large-Text UI Proposal for the Senior Segment: Leading Digital Finance with Shinhan Life]**  
 **- Team DebunLife, Excellence(2nd) Award Winner -**  
 
