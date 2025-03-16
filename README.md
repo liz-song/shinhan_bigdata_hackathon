@@ -36,10 +36,10 @@
 ---
 
 ## Expected Impact  
-- **Improved accessibility to financial services for elderly customers**  
-- **Acquisition of new customers and enhanced customer loyalty through an optimized experience**  
-- **Cost reduction and operational efficiency through the digitization and automation of insurance services**  
-- **Strengthened brand leadership and market dominance as a 'leader in digital financial services'**  
+- Improved accessibility to financial services for elderly customers
+- Acquisition of new customers and enhanced customer loyalty through an optimized experience
+- Cost reduction and operational efficiency through the digitization and automation of insurance services  
+- Strengthened brand leadership and market dominance as a 'leader in digital financial services'  
 
 ---
 
